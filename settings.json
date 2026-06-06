@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BROTHER-BlaS.aternos.me",
-    "port": 14870,
+    "ip": "BROTHER-J9ND.aternos.me",
+    "port": 42023,
     "version": "1.20.1",
     "try-creative": false
   },
